@@ -87,3 +87,9 @@ Your task is to develop a machine learning model to predict credit risk based on
 ## Contributions
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+## Resources
+1. **Loan Dataset**
+   - The dataset for this project can be downloaded from [here](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv)
+2. **Data Dictionary**
+   - The data dictionary, which provides detailed information about each attribute in the dataset, can be accessed [here](https://docs.google.com/spreadsheets/d/1iT1JNOBwU4l616_rnJpo0iny7blZvNBs/edit?usp=sharing&ouid=106453318899954059421&rtpof=true&sd=true).
+
